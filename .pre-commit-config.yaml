@@ -1,0 +1,5 @@
+repos
+  repo: https://github.com/astepni/Note-Manager
+  rev: v0.0.138
+  hooks:
+   -id ruff
